@@ -1,4 +1,13 @@
-scikit-image's documentation
+JupyterLite Demo
+----------------
+
+You can try scikit-image directly in your browser using JupyterLite:
+
+https://scikit-image.org/docs/dev/jupyterlite/
+
+.. note::
+   The JupyterLite environment may not match the exact version of
+   the documentation. Some examples may behave slightly differently.scikit-image's documentation
 ============================
 
 **Date**: |today|, **Version**: |version|
